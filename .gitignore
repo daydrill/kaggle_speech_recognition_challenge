@@ -1,0 +1,7 @@
+# OSX only
+.DS_Store
+
+
+# data
+input/test/*
+input/train/*
