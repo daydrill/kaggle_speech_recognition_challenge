@@ -5,3 +5,6 @@
 # data
 input/test/*
 input/train/*
+
+output/*
+
