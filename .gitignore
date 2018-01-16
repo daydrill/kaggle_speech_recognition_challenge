@@ -3,8 +3,13 @@
 
 
 # data
+input/*
 input/test/*
 input/train/*
 
 output/*
+_output/*
+
+backups/*
+logs/*
 
